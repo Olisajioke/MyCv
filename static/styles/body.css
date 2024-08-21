@@ -1,5 +1,5 @@
 body {
-  color: white;
+  color: rgb(139, 6, 6);
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -55,7 +55,7 @@ a:hover {
 
 .middle-container {
   margin: 100px 0;
-  background-image: linear-gradient(to right, darkblue, #4e2002);
+  background-image: linear-gradient(to right, #eae4f9, yellow);
 }
 
 .bottom-container {
